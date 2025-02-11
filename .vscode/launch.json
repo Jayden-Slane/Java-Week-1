@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Comments",
+            "request": "launch",
+            "mainClass": "Comments",
+            "projectName": "Java-Week-1_b9cccf3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch comments",
+            "request": "launch",
+            "mainClass": "comments",
+            "projectName": "Java-Week-1_b9cccf3d"
+        },
+        {
+            "type": "java",
             "name": "Launch HelloWorld2",
             "request": "launch",
             "mainClass": "HelloWorld2",
