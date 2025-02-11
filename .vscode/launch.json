@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ThreeExamples",
+            "request": "launch",
+            "mainClass": "ThreeExamples",
+            "projectName": "Java-Week-1_b9cccf3d"
+        },
+        {
+            "type": "java",
             "name": "Launch Comments",
             "request": "launch",
             "mainClass": "Comments",
