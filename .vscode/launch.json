@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ClassT",
+            "request": "launch",
+            "mainClass": "ClassT",
+            "projectName": "Java-Week-1_b9cccf3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Namescore",
+            "request": "launch",
+            "mainClass": "Namescore",
+            "projectName": "Java-Week-1_b9cccf3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "Java-Week-1_b9cccf3d"
+        },
+        {
+            "type": "java",
             "name": "Launch ThreeExamples",
             "request": "launch",
             "mainClass": "ThreeExamples",
